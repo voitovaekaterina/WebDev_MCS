@@ -1,0 +1,13 @@
+@font-face {
+	src: url(../font/Dutch.ttf);
+	font-family:'Dutch';
+	font-weight: bold;
+}
+
+.header-container h1 {
+	font-family: 'Dutch';
+	background-color: #E5E000; 
+	color: white;
+	font-size: 30px;
+	font-weight: bold;	
+}
